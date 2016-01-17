@@ -100,6 +100,9 @@
     <string name="qs_rows_landscape_title">Rows (landscape)</string>
     <string name="qs_columns_title">Columns</string>
 
+    <string name="torch_long_press_power_gesture_title">Long-press power button for torch</string>
+    <string name="torch_long_press_power_gesture_desc">Activate the torch by long-pressing the power button while the display is off</string>
+
 <!-- APP PREFERENCES -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
